@@ -52,7 +52,7 @@ Click "Find Duplicates" and Trove scans your entire library for visual duplicate
 
 ## Find and compare edited photos
 
-"Find Edited" is a separate scan, tuned to catch original-and-edited pairs (a straight-out-of-camera shot next to your filtered or cropped version of it) rather than accidental copies. Confirmed pairs link together and open in a side-by-side compare view any time, so you can always find your way back to the original.
+Ever edited a photo or video and ended up with two copies of the same shot, one edited and one untouched, with no way to remember which is which? That's exactly the problem "Find Edited" solves. It runs as a separate scan, tuned to catch original-and-edited pairs (a straight-out-of-camera shot next to your filtered or cropped version of it) rather than accidental duplicates. Confirmed pairs link together and open in a side-by-side compare view any time, so you can always find your way back to the original.
 
 ![A video file showing its "Original" badge, linking it back to the source clip it was edited from](screenshots/edited-linked.png)
 
