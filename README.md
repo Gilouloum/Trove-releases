@@ -36,7 +36,7 @@ Stop manually dragging thousands of files into folders. Trove reads what's alrea
 - **Location.** Country, region, and city are looked up from each photo's GPS data, so your library can be browsed by where you actually were.
 - **Categories and custom sections.** Build your own sidebar sections, with your own name, icon, and color, for anything that doesn't fit trips or people.
 
-<!-- SCREENSHOT: sidebar expanded, showing Trips/People/Categories/Cameras/Location -->
+![Sidebar expanded, showing Trips, People, Categories, and Cameras sections all auto-organized](screenshots/sidebar.png)
 
 ## Never sort a photo library by hand again: Guided Sort
 
@@ -48,25 +48,25 @@ Wondering how to sort thousands of unsorted photos without losing a weekend to i
 
 Click "Find Duplicates" and Trove scans your entire library for visual duplicates, not just identical files. It compares a structural fingerprint and color profile of every photo (and, for videos, duration) to catch near-identical shots even after a resize, a re-save, or a rename. Nothing is ever deleted automatically: every group is shown side by side for you to confirm, with the better copy pre-suggested by resolution and metadata.
 
-<!-- SCREENSHOT: Find Duplicates side-by-side review screen -->
+![Find Duplicates review screen, comparing two near-identical photos with the better copy pre-recommended](screenshots/find-duplicates.png)
 
 ## Find and compare edited photos
 
 "Find Edited" is a separate scan, tuned to catch original-and-edited pairs (a straight-out-of-camera shot next to your filtered or cropped version of it) rather than accidental copies. Confirmed pairs link together and open in a side-by-side compare view any time, so you can always find your way back to the original.
 
-<!-- SCREENSHOT: edited-photo compare view -->
+![A video file showing its "Original" badge, linking it back to the source clip it was edited from](screenshots/edited-linked.png)
 
 ## Search your photos by what's actually in them, with on-device AI
 
 Type what you remember, not what the file is named. Search "beach sunset" or "dog on a hike" and Trove finds it even if the filename is `IMG_4021.heic`, using an on-device AI model (CLIP) that understands what's actually in a photo, not just its metadata. It runs entirely on your computer: no photo, description, or query is ever sent anywhere. Results found by content instead of filename or tags carry a 🧠 badge, so you always know why a match showed up.
 
-<!-- SCREENSHOT: search results showing the AI-match badge -->
+![Searching "lamborghini" returns matching car photos found by content, not filename or tags](screenshots/smart-search.png)
 
 ## Edit photos without leaving your library
 
 Right-click any photo for a full, non-destructive editor: exposure, contrast, highlights, shadows, whites, and blacks under Light; RGB tone curves under Tone; saturation, vibrance, temperature, and 8-band HSL color adjustments under Color; rotate and straighten; and a freehand draw/annotate layer. Every edit is stored separately from your original file, which is never overwritten, and can be exported as a new copy whenever you want to share it.
 
-<!-- SCREENSHOT: Photo Editor open on a photo -->
+![The Photo Editor open on a photo, showing the Light tab's exposure, contrast, and color sliders](screenshots/photo-editor.png)
 
 ## Relive your trips on a 3D globe
 
