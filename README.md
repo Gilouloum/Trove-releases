@@ -18,7 +18,7 @@ Trove never uploads, copies, or moves your files. It just organizes links back t
 
 ---
 
-<!-- SCREENSHOT: main library grid view -->
+![Trove's library grid view, sorted by trip](screenshots/library-grid.png)
 
 ---
 
@@ -31,9 +31,12 @@ Trove never uploads, copies, or moves your files. It just organizes links back t
 - **Duplicate & edited-photo detection.** Find visual duplicates and likely original/edited pairs across a big library.
 - **Works with any drive:** internal, external SSD, NAS, anywhere.
 
-<!-- SCREENSHOT: globe view -->
+**The 3D Globe:** every geotagged photo and video plotted on a real-terrain globe, zoomable down to street level.
 
-<!-- SCREENSHOT: search / trips view -->
+<p align="center">
+  <img src="screenshots/globe-overview.png" width="49%" alt="Globe view showing trips across the world with trip cards">
+  <img src="screenshots/globe-zoom.png" width="49%" alt="Globe view zoomed into a single trip">
+</p>
 
 ---
 
