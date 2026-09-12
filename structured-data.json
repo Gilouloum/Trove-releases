@@ -1,0 +1,75 @@
+{
+  "$schema": "https://schema.org",
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "name": "Trove",
+      "applicationCategory": "PhotoApplication",
+      "operatingSystem": "Windows 10, Windows 11, macOS (Apple Silicon)",
+      "description": "Trove is a free, local-first photo and video organizer for Windows and macOS. It never uploads, copies, or moves files: it organizes links back to them, exactly where they already live on disk.",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Automatic organization by trip, person, camera, and location",
+        "Guided Sort for clearing large unsorted photo backlogs",
+        "Automatic duplicate photo and video detection",
+        "Automatic linking of edited photos back to their original",
+        "On-device AI photo search by content (CLIP model)",
+        "Non-destructive photo editor",
+        "3D globe view for reliving trips",
+        "Zero-copy: never duplicates or moves original files",
+        "No cloud upload, no subscription, no account required"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the best photo organizer for Windows?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a free, local photo organizer that doesn't require a cloud account, Trove reads your existing photo library and automatically groups everything into Trips, People, Cameras, and Location, without moving or re-importing a single file. It runs on Windows 10 and 11, and on macOS (Apple Silicon)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best way to store and organize my photos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Keep original files exactly where they are and layer organization on top, rather than importing everything into a new managed library. Trove is zero-copy: it never duplicates or moves files, it only creates organized links back to them, keeping originals portable and independent of any one app."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I sort thousands of unsorted photos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trove's Guided Sort walks an unsorted backlog one cluster at a time, grouped by trip, date, person, camera, or location, asking a single question per cluster instead of per photo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I find duplicate photos automatically?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trove's Find Duplicates scans an entire library for visual duplicates, not just identical files, comparing a structural fingerprint and color profile of every photo. Matches are shown side by side for manual confirmation, and nothing is deleted automatically."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a photo organizer that doesn't upload anything to the cloud?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Trove never uploads, copies, or moves files anywhere. Everything, including its on-device AI photo search, runs locally with no cloud, no subscription, and no account required."
+          }
+        }
+      ]
+    }
+  ],
+  "note": "This file is not rendered by GitHub. It is kept here as ready-to-use structured data (SoftwareApplication + FAQPage) for the day Trove has its own website: drop it in as a <script type=\"application/ld+json\"> tag to make Google, Bing, and AI answer engines parse these facts directly."
+}

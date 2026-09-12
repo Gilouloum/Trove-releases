@@ -2,7 +2,7 @@
 
 Your photos and videos, finally organized. Not a single one of them ever leaves your computer.
 
-Trove is a free, local-first photo organizer for Windows and macOS. It never uploads, copies, or moves your files: it just organizes links back to them, exactly where they already live on your drive. No cloud, no subscription, no account required. If you've been searching for how to sort a huge, messy photo library, how to find duplicate photos, or how to find your old edited shots again, this page covers exactly what Trove does and how it works.
+Trove is a free, local-first photo organizer for Windows and macOS. It never uploads, copies, or moves your files: it just organizes links back to them, exactly where they already live on your drive. No cloud, no subscription, no account required. If you've been searching for how to sort a huge, messy photo library, the best way to store your photos, how to find duplicate photos, or how to find your old edited shots again, this page covers exactly what Trove does and how it works. Short answers to those questions are in the [FAQ](FAQ.md).
 
 <p align="center">
   <a href="https://github.com/Gilouloum/Trove-releases/releases/download/latest-build/Trove-Setup.exe">
@@ -84,6 +84,33 @@ Every geotagged photo and video is plotted on a real-terrain 3D globe, zoomable 
 - **Drag & drop.** Drop a folder in and Trove imports it as a new trip. Drop loose files in and they're added straight to your library.
 - **Automatic backups.** Your library's organization (folders, tags, edits) is backed up automatically as you work, with automatic recovery if anything ever gets corrupted. Your original photo and video files are a separate matter: since Trove never copies or moves them in the first place, back those up the normal way, same as you would without Trove.
 
+## How Trove compares to Google Photos, Apple Photos, and Lightroom
+
+The short version: other apps want your library uploaded or imported into a catalog they control. Trove reads what's already on your drive and organizes it in place.
+
+| | **Trove** | Google Photos | Apple Photos / iCloud | Adobe Lightroom |
+|---|---|---|---|---|
+| Cost | Free | Free tier, then paid storage | Free tier, then paid storage | Subscription |
+| Cloud upload required | No | Yes | Yes (for sync) | Optional, but cloud sync is paid |
+| Copies or moves your files | Never (zero-copy) | Yes, uploads a copy | Yes, imports into Photos library | Yes, imports into a catalog |
+| Works on an existing messy folder structure | Yes, no re-import needed | No, requires upload | No, requires import | No, requires import |
+| Automatic duplicate finder | Yes, visual matching | Limited | Limited | No, third-party plugins only |
+| Links edited photos back to the original | Yes, automatic | No | Limited (Photos edits only) | Yes, within its own catalog |
+| On-device AI content search | Yes, fully offline | Yes, but cloud-based | Yes, but limited | No |
+| Account required | No | Yes | Yes | Yes |
+
+## Frequently asked questions
+
+**What is the best photo organizer for Windows?** One that works on your existing files without a cloud account. Trove reads your library and automatically sorts it into Trips, People, Cameras, and Location, on Windows 10, Windows 11, and macOS (Apple Silicon), without moving a single file.
+
+**What's the best way to store and organize my photos?** Keep your original files exactly where they already are, and layer organization on top instead of importing everything into a new managed library. That's what Trove's zero-copy design does: it links to your files rather than duplicating or moving them.
+
+**How do I sort thousands of unsorted photos?** Use Guided Sort (above): it clears a backlog one cluster at a time, by trip, date, person, camera, or location, instead of asking you to file photos away one by one.
+
+**What's the best photo organizer with a preview window?** Trove opens any photo or video in a full-screen preview straight from the library grid, no separate viewer needed, and uses that same preview for comparing duplicates and edited/original pairs.
+
+The full list, including duplicate detection, cloud-free storage, and platform support, is in [FAQ.md](FAQ.md).
+
 ---
 
 ## Installing
@@ -97,3 +124,5 @@ Trove checks for updates automatically after that. No need to come back here for
 ---
 
 <sub>This repo only ever contains the built app. Trove's source code is closed. If you're looking for the app itself, the buttons above are all you need.</sub>
+
+<sub>**Topics:** photo organizer, photo manager, photo library organizer, duplicate photo finder, photo sorting software, local photo storage, offline photo organizer, no-cloud photo app, photo organizer for Windows, photo organizer for Mac, photo preview app, photo viewer, photo backup organization, find edited photos, AI photo search. See also: [llms.txt](llms.txt), [FAQ.md](FAQ.md).</sub>
