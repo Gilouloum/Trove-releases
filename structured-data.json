@@ -67,6 +67,22 @@
             "@type": "Answer",
             "text": "Yes. Trove never uploads, copies, or moves files anywhere. Everything, including its on-device AI photo search, runs locally with no cloud, no subscription, and no account required."
           }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there an easier alternative to digiKam?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "digiKam is powerful for photographers managing a large, deliberately tagged archive, but it has a real learning curve: album structures, tag hierarchies, and a dense, panel-heavy interface. Trove trades that flexibility for simplicity, organizing automatically the moment it's opened, with no setup step required first."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the best free photo organizer for someone who isn't a photographer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most well-known free local photo tools, like digiKam and XnView MP, are built for photographers and expect album or tag setup before a library is organized. Trove is built for the opposite case: it reads existing folders and automatically sorts them into trips, people, cameras, and locations, with no tagging or catalog setup required first."
+          }
         }
       ]
     }

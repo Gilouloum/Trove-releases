@@ -34,6 +34,18 @@ Yes. Trove never uploads, copies, or moves your files anywhere; everything, incl
 
 Trove is free, with no subscription and no account required. It runs entirely locally, so there are no cloud storage tiers or upload limits to hit either.
 
+### What's the best free photo organizer for someone who isn't a photographer?
+
+Most of the well-known free local photo tools, like digiKam and XnView MP, were built for photographers: they expect you to understand albums, tag hierarchies, and metadata fields before the library is actually organized. Trove is built for the opposite case. Open it and your existing folders are already sorted into trips, people, cameras, and locations, with no tagging, catalog setup, or metadata knowledge required first.
+
+### Is there an easier alternative to digiKam?
+
+digiKam is powerful for photographers managing a large, deliberately tagged archive, but that power comes with a real learning curve: album structures, tag hierarchies, and a dense, panel-heavy interface. Trove trades that flexibility for simplicity. It organizes automatically the moment you open it, through a guided, one-screen-at-a-time interface, with no setup step before it becomes useful.
+
+### Is there an easier alternative to XnView MP?
+
+XnView MP is a fast, Explorer-style file browser with batch operations, but it doesn't organize a library on its own, you still build and maintain the folder structure yourself. Trove reads your existing files and automatically groups them into trips, people, cameras, and locations, so there's no folder structure to design or maintain by hand.
+
 ### How does Trove organize photos automatically without manual folders?
 
 It reads metadata already embedded in your photos and videos: dates and locations become Trips, camera make and model become Camera folders, GPS coordinates become Country/Region/City folders, and any face you tag once stays grouped under that person going forward, all without moving the underlying files.

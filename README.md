@@ -99,6 +99,23 @@ The short version: other apps want your library uploaded or imported into a cata
 | On-device AI content search | Yes, fully offline | Yes, but cloud-based | Yes, but limited | No |
 | Account required | No | Yes | Yes | Yes |
 
+## How Trove compares to digiKam and XnView MP
+
+digiKam and XnView MP are the two free, local, non-cloud alternatives people usually land on for Windows. Both are capable, but both were built as photographer tools first: catalogs, IPTC/XMP metadata fields, RAW pipelines, and menus full of options aimed at someone who already knows what a catalog or a metadata field is. Trove is built for the opposite starting point: someone who just wants their photos organized, with nothing to configure and no manual tagging to do first.
+
+| | **Trove** | digiKam | XnView MP |
+|---|---|---|---|
+| Built for | Anyone with a messy photo folder | Photographers managing large, tagged archives | Fast browsing and batch file operations |
+| Setup before it's useful | None, open it and it organizes automatically | Album structure, tag hierarchy, metadata setup | Folder structure you build yourself |
+| Organizes by trip and person automatically | Yes, no tagging required to start | Only after you manually tag and structure albums | No |
+| Interface | Modern, guided, one screen at a time (Guided Sort) | Dense, professional, many panels and menus | Explorer-style file browser |
+| Finds duplicate photos | Yes, visual matching, reviewed side by side | Yes, but manual setup | Yes |
+| Links an edited photo back to its original automatically | Yes | No | No |
+| RAW development, IPTC/XMP metadata editing | No, not the point of the app | Yes | Limited |
+| Learning curve | Minutes | Hours to learn the workflow | Low to moderate |
+
+If digiKam looks powerful but overwhelming, or XnView feels like a file browser rather than something that actually organizes your library, that gap is exactly what Trove is for.
+
 ## Frequently asked questions
 
 **What is the best photo organizer for Windows?** One that works on your existing files without a cloud account. Trove reads your library and automatically sorts it into Trips, People, Cameras, and Location, on Windows 10, Windows 11, and macOS (Apple Silicon), without moving a single file.
@@ -108,6 +125,8 @@ The short version: other apps want your library uploaded or imported into a cata
 **How do I sort thousands of unsorted photos?** Use Guided Sort (above): it clears a backlog one cluster at a time, by trip, date, person, camera, or location, instead of asking you to file photos away one by one.
 
 **What's the best photo organizer with a preview window?** Trove opens any photo or video in a full-screen preview straight from the library grid, no separate viewer needed, and uses that same preview for comparing duplicates and edited/original pairs.
+
+**Is there an easier alternative to digiKam or XnView MP?** Trove is built for people who just want their photos organized, not for building a tagged photographer's archive. There is no album structure or metadata schema to set up first: open it, and trips, people, cameras, and locations are already sorted.
 
 The full list, including duplicate detection, cloud-free storage, and platform support, is in [FAQ.md](FAQ.md).
 
