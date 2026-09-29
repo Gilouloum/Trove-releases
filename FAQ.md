@@ -72,4 +72,4 @@ Windows 10 and 11 on any recent PC, and macOS on Apple Silicon (M1, M2, M3, or M
 
 ### Does Trove have facial recognition?
 
-No. Tagging a person in Trove is manual: you tag someone once and Trove keeps every photo of them grouped together from then on, but no automated face scanning or analysis happens, and nothing is ever sent anywhere for it.
+Yes, and it's off until you turn it on. Face recognition runs entirely on your computer: faces are found and compared on your own machine, and no photo, face, or name is ever sent anywhere. It learns who's who from the People folders you already have, so the only people it asks you about are the ones it doesn't know yet. Turning it off deletes all the face data it stored.
