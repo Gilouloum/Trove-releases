@@ -249,4 +249,6 @@ Trove checks for updates automatically after that. No need to come back here for
 
 <sub>This repo only contains the built app. Trove's source code is closed. If you're looking for the app itself, the buttons above are all you need.</sub>
 
+<sub>[Privacy policy](PRIVACY.md) · [Terms of use](TERMS.md)</sub>
+
 <sub>**Topics:** photo organizer, photo manager, photo library organizer, duplicate photo finder, photo sorting software, local photo storage, offline photo organizer, no-cloud photo app, private face recognition, on-device face recognition, photo organizer for Windows, photo organizer for Mac, photo viewer, RAW photo viewer, HEIC viewer for Windows, photo editor with layers, remove objects from photos, 360 photo viewer, find edited photos, AI photo search. See also: [llms.txt](llms.txt), [FAQ.md](FAQ.md).</sub>
